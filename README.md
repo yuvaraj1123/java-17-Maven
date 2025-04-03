@@ -21,6 +21,8 @@ exec java --enable-preview -jar target/java-17-maven-project-1.0-SNAPSHOT.jar "$
 
 hlo yuva
 
+# tesrt
+
 You can also rename the executable script. If the executable should be called `hola`, then run:
 
 ```bash
